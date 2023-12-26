@@ -8,6 +8,8 @@ This project involves analyzing customer behaviors in the retail sector, segment
 - Matplotlib
 - Pandas
 - Scikit-learn
+- Seaborn
+- Yellowbrick
 
 ## Responsibilities and Achievements
 - Analyzed customer purchase behaviors and preferences using data analysis techniques.
