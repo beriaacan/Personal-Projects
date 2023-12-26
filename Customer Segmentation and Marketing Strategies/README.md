@@ -48,7 +48,6 @@ Include visualizations, insights, and conclusions from the analysis. Highlight k
 
 Contact me any problem
 
-## License
 
 
 
