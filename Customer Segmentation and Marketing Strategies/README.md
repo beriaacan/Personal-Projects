@@ -32,7 +32,7 @@ This project involves analyzing customer behaviors in the retail sector, segment
 - Scikit-learn
 - Seaborn
 - Yellowbrick
-- Other necessary libraries 
+
 
 ## Usage
 
