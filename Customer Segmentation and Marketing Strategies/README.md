@@ -46,7 +46,6 @@ Include visualizations, insights, and conclusions from the analysis. Highlight k
 
 ## Author
 
-Your Name
 Contact me any problem
 
 ## License
