@@ -11,11 +11,25 @@ This project involves analyzing customer behaviors in the retail sector, segment
 - Seaborn
 - Yellowbrick
 
-## Responsibilities and Achievements
-- Analyzed customer purchase behaviors and preferences using data analysis techniques.
-- Segmented customers using clustering algorithms (e.g., K-Means) for targeted marketing strategies.
-- Developed and implemented personalized marketing strategies for each customer segment.
-- Analyzed the impact on increased sales and customer satisfaction, presenting findings to management.
+## Aim
+
+1. Analyzing customer purchase behaviors and preferences using data analysis techniques.
+2. Developing and implementing personalized marketing strategies for each customer segment.
+3. Analyzing the impact on increased sales and customer satisfaction and presenting the findings to the management.
+
+## Project Structure
+
+- **Data Cleaning and Feature Engineering:** Cleaning and preparing the dataset for analysis. Feature engineering to create new relevant features.
+
+- **Data Preprocessing:** Label encoding categorical features, scaling features using the standard scaler, and creating a subset dataframe for dimensionality reduction.
+
+- **Dimensionality Reduction with PCA:** Using Principal Component Analysis (PCA) to reduce the dimensionality of the dataset to 3 components.
+
+- **Clustering with Agglomerative Clustering:** Performing clustering using Agglomerative Clustering and examining the clusters formed.
+
+- **Evaluating Models:** Exploring patterns in the clusters and drawing conclusions based on exploratory data analysis.
+
+- **Profiling:** Profiling the clusters based on personal traits of the customers.
 
 ---
 
