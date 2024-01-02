@@ -57,6 +57,14 @@ This project aims to analyze the time, location, and impacts of traffic accident
 ## Overview
 This project involves the analysis of a dataset containing over 1 million transactions by more than 800,000 customers for a bank in India. The focus is on customer segmentation, location-wise analysis, transaction-related insights, and customer recency, frequency, monetary analysis.
 
+## Tools & Technologies
+- Python
+- Matplotlib
+- Pandas
+- Scikit-learn
+- Seaborn
+- Scipy
+  
 ## Aim
 The primary goals of this notebook are to:
 - Perform clustering/segmentation of customers.
