@@ -30,7 +30,6 @@ This dataset consists of 1 million+ transactions by over 800,000 customers for a
 - `notebooks/`: Contains the Jupyter notebook for the analysis.
 - `data/`: Placeholder for the dataset.
 - `results/`: Directory to store any results or output files.
-- `LICENSE.md`: License information for the project.
 - `README.md`: The file you are currently reading.
 
 ## Dependencies
@@ -59,6 +58,6 @@ Give credit to the source of the dataset or any other references used.
 Please contact me any problem.
 
 ## License
-This project is licensed under the [LICENSE NAME] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Data files © Original Authors 
 
 
