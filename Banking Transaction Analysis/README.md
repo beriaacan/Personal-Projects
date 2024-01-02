@@ -44,7 +44,7 @@ Ensure these libraries are installed in your Python environment before running t
 
 ## Usage
 1. Clone the repository.
-2. Place the dataset in the `data.zip/` directory.
+2. Place the dataset in the `data.zip` directory.
 3. Run the Jupyter notebook (`notebooks/Bank_Customer_Segmentation.ipynb`).
 4. Follow the steps outlined in the notebook for analysis.
 
