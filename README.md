@@ -54,8 +54,6 @@ This project aims to analyze the time, location, and impacts of traffic accident
 
 # Project Title: Banking Transaction Analysis
 
-# Project Title: Banking Transaction Analysis
-
 ## Overview
 This project involves the analysis of a dataset containing over 1 million transactions by more than 800,000 customers for a bank in India. The focus is on customer segmentation, location-wise analysis, transaction-related insights, and customer recency, frequency, monetary analysis.
 
