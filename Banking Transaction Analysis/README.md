@@ -11,6 +11,21 @@ The primary goals of this notebook are to:
 - Perform recency, frequency, and monetary analysis on customer transactions.
 - Optionally, conduct network or graph analysis of customer data.
 
+## Customer Segmentation
+Most banks have a large customer base with diverse characteristics. Customer segmentation is crucial for understanding and catering to the specific needs of different customer groups. The goal is to create meaningful clusters based on shared traits such as age, income, values, and lifestyle.
+
+According to a report from Ernst & Young, a more granular understanding of consumers is a strategic and competitive imperative for banking providers. Customer segmentation provides insights that should be integrated into everyday business operations.
+
+## About this Dataset
+This dataset consists of 1 million+ transactions by over 800,000 customers for a bank in India. The data includes:
+- Customer age (DOB)
+- Location
+- Gender
+- Account balance at the time of the transaction
+- Transaction details
+- Transaction amount
+- And more
+
 ## Project Structure
 - `notebooks/`: Contains the Jupyter notebook for the analysis.
 - `data/`: Placeholder for the dataset.
@@ -41,4 +56,9 @@ The analysis revealed key insights into customer behavior, regional trends, and 
 Give credit to the source of the dataset or any other references used.
 
 ## Author
-Please contact me any problem
+Please contact me any problem.
+
+## License
+This project is licensed under the [LICENSE NAME] - see the [LICENSE.md](LICENSE.md) file for details.
+
+
