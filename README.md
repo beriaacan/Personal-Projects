@@ -33,25 +33,6 @@ This project involves analyzing customer behaviors in the retail sector, segment
 
 ---
 
-# Project Title: Traffic Accident Analysis and Prevention
-
-## Overview
-This project aims to analyze the time, location, and impacts of traffic accidents in detail to develop strategies for accident prevention.
-
-## Tools & Technologies
-- Python
-- Matplotlib
-- Pandas
-- Scikit-learn
-
-## Responsibilities and Achievements
-- Conducted data preprocessing using data mining techniques to clean, transform, and prepare traffic accident data for modeling.
-- Predicted accident probabilities using machine learning algorithms (e.g., Random Forest, XGBoost).
-- Created effective visualizations to understand the conditions and factors contributing to accidents.
-- Provided recommendations to improve traffic and pedestrian safety, sharing these with management.
-
----
-
 # Project Title: Banking Transaction Analysis
 
 ## Overview
