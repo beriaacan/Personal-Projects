@@ -54,22 +54,31 @@ This project aims to analyze the time, location, and impacts of traffic accident
 
 # Project Title: Banking Transaction Analysis
 
+# Project Title: Banking Transaction Analysis
+
 ## Overview
-This project involves analyzing banking transactions data to detect patterns, anomalies, and trends, aiding in fraud detection and customer behavior analysis.
+This project involves the analysis of a dataset containing over 1 million transactions by more than 800,000 customers for a bank in India. The focus is on customer segmentation, location-wise analysis, transaction-related insights, and customer recency, frequency, monetary analysis.
 
-## Tools & Technologies
-- SQL
-- Python
-- Matplotlib
-- Pandas
-- Scikit-learn
+## Aim
+The primary goals of this notebook are to:
+- Perform clustering/segmentation of customers.
+- Conduct location-wise analysis to identify regional trends in India.
+- Analyze transaction-related patterns to improve user experiences.
+- Perform recency, frequency, and monetary analysis on customer transactions.
+- Optionally, conduct network or graph analysis of customer data.
 
-## Database Technologies Used
-- MySQL
-- PostgreSQL
+## Project Structure
+- **Data Cleaning and Feature Engineering:** Cleaning and preparing the dataset for analysis. Feature engineering to create new relevant features.
 
-## Responsibilities and Achievements
-- Designed and implemented a database schema to store banking transaction data efficiently.
-- Wrote SQL queries to extract, transform, and load data from various sources into the database.
-- Conducted exploratory data analysis (EDA) on the banking transaction data to identify patterns and potential fraud.
-- Developed analytical models to detect unusual transactions and generate alerts for further investigation.
+- **Exploratory Data Analysis:** Exploration of the dataset to gain insights into customer behavior, regional trends, and interesting transaction patterns.
+
+- **Feature Engineering:** Creation of new features or transformation of existing ones to enhance the dataset for modeling.
+
+- **Modelling:** Application of clustering algorithms for customer segmentation, and any other relevant machine learning models.
+
+- **Results:** Summary of findings and insights obtained from the analysis.
+
+- **Conclusion:** Concluding remarks and potential recommendations for the bank based on the analysis.
+
+---
+
